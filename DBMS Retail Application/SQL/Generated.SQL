@@ -1,9 +1,3 @@
-﻿/*
-Created: 12/1/2016
-Modified: 12/6/2016
-Model: MySQL 5.7
-Database: MySQL 5.7
-*/
 
 
 -- Create tables section -------------------------------------------------
